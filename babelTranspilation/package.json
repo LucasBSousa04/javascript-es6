@@ -1,0 +1,17 @@
+{
+  "name": "babelTranspilation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "testing-es89.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/cli": "^7.15.4",
+    "@babel/core": "^7.15.5",
+    "@babel/preset-env": "^7.15.6"
+  }
+}
